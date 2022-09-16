@@ -1,3 +1,14 @@
-A to-do list, RESTful web application utilizing MVC design pattern and Spring Boot. 
+# To Do List API
 
-Utilizes CRUD functionalities to manage data persistence to/from MySQL database 
+A Spring Boot, RESTful web API that returns JSON "ToDo" object key/values from MySql Database.
+
+<ul>
+<li>GET, POST, DELETE, PUT endpoints verified via Postman.</li>
+<li>JDBC for database connectivity</li>
+</ul>
+
+
+
+Technologies used:
+
+![Tech Stack](https://skills.thijs.gg/icons?i=java,spring,git,maven,mysql)
